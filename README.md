@@ -1,2 +1,2 @@
 # jq_practice
-jquery practice
+This is  jquery practice 
